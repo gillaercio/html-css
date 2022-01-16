@@ -36,3 +36,23 @@
 <a href="https://gillaercio.github.io/html-css/exercicios/ex016/cor02.html">Executar o exercício 016-2</a>
 
 <a href="https://gillaercio.github.io/html-css/exercicios/ex016/cor03.html">Executar o exercício 016-3</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex017/fonte01.html">Executar o exercício 017-1</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex017/fonte02.html">Executar o exercício 017-2</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex018/fonte01.html">Executar o exercício 018-1</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex018/fonte02.html">Executar o exercício 018-2</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex020/pseudoclasses.html">Executar o exercício 020-1</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex020/links.html">Executar o exercício 020-2</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex020/hover.html">Executar o exercício 020-3</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex021/caixa01.html">Executar o exercício 021-1</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex021/caixa02.html">Executar o exercício 021-2</a>

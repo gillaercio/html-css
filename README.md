@@ -31,4 +31,8 @@
 
 <a href="https://gillaercio.github.io/html-css/exercicios/ex015/index.html">Executar o exercício 015</a>
 
-<a href="https://gillaercio.github.io/html-css/exercicios/ex016/index.html">Executar o exercício 016</a>
+<a href="https://gillaercio.github.io/html-css/exercicios/ex016/cor01.html">Executar o exercício 016-1</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex016/cor02.html">Executar o exercício 016-2</a>
+
+<a href="https://gillaercio.github.io/html-css/exercicios/ex016/cor03.html">Executar o exercício 016-3</a>

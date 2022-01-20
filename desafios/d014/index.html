@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bolder;
+            font-size: 2em;
+        }
+
+        table {
+            width: 600px;
+            text-align: center;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 10px;
+            border-radius: 6px;
+            background-color: lightgray;
+        }
+
+        .rowspan {
+            background-color: lightgreen;
+        }
+
+        .colspan {
+            background-color: lightsalmon;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="4" class="colspan">A</td>
+            <td rowspan="4" class="rowspan">B</td>
+        </tr>
+        <tr>
+            <td rowspan="4" class="rowspan">C</td>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+        </tr>
+        <tr>
+            <td>G</td>
+            <td>H</td>
+            <td>I</td>
+        </tr>
+        <tr>
+            <td>J</td>
+            <td>K</td>
+            <td>L</td>
+        </tr>
+        <tr>
+            <td colspan="4" class="colspan">N</td>
+        </tr>
+    </table>
+</body>
+</html>

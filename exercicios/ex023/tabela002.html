@@ -20,7 +20,8 @@
 
         table {
             border-collapse: collapse;
-            width: 400px;
+            width: 500px;
+            position: relative;
         }
 
         th, td {
@@ -37,6 +38,12 @@
             color: white;
         }
 
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: #383838;
+        }
+
         tbody > tr:nth-child(2n) {
             background-color: lightgray;
         }
@@ -51,8 +58,10 @@
     <table>
         <caption>População das Unidades Federativas</caption>
         <thead>
-            <th>Estados</th>
-            <th class="pop">População</th>
+            <tr>            
+                <th>Estados</th>
+                <th class="pop">População</th>
+            </tr>
         </thead>
         <tbody>
             <tr>
